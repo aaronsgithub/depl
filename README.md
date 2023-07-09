@@ -1,3 +1,3 @@
-# Depl
+# depl
 
 Under development.
